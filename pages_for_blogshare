@@ -1,0 +1,25 @@
+pages for blogshare 
+
+login.html 
+(will implement admin login as well, where checkbox can be used to trigger query
+ to find admin user in db instead of regular user...different query used, thats all.)
+ 
+userCreate.html (no admin create page, since admins are created in db)
+userSettings.html (where the user can manage a basic profile)
+userContent.html (Where the user can track items they authored and co-authored)
+
+
+blogCreate.html	'
+blogSettings.html (where author may change blog's title, change permissions, delete blog, etc)
+blogAbout.html?? (where users can look at the blog's title, description, who the co-authors are, etc)
+
+postCreate.html
+postSettings.html (where the author may change permissions, edit title, delete entire post??)
+postCreateEdit.html (where permitted users may edit a post)
+postViewEdit.html (Where to view state of post before and after a edit)
+postViewAllEdit.html 
+(if possible...where to view a post in a color coded more where edits by different users are marked?)
+postAbout.html?? (view posts's title, list of co-authors, edits by each co-authors)
+
+
+blog.html (generic page used for all blog's...could have multiple styles available....)
